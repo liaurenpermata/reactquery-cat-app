@@ -1,3 +1,17 @@
 .padding {
     padding: 20px;
 }
+
+.list-cat {
+    cursor: pointer;
+}
+
+.list-cat:hover {
+    color: #fff;
+    background-color: #5038bc;
+}
+
+img {
+    margin-top: 30px;
+    width: 200px;
+}
